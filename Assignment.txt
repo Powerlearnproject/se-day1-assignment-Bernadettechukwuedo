@@ -1,0 +1,37 @@
+part 1
+
+Software engineering deals with the planning, coding, testing, deployment of software that is created to perform a particular function.
+it is very important because it helps to ensure that the software is free from bugs and can run anywhere irrespective of the Os
+
+
+3 key milestone:
+1968: The first NATO Software Engineering Conference is held.
+1970s: A number of new methodologies are developed, including structured programming and object-oriented programming.
+1980s: The first computer-aided software engineering (CASE) tools are released.
+
+
+In the phases of software development cycl, we first have to planning in this phase we decide on how to build a particular software and the amount of time to be allocated to other phases. Next we move on to the requirement gathering phase,here the information needed will be collected . then we move to the coding phase which is the implementation of the information being collected. then the testing phase which help to ensure that a software is free from bugs and it works well together then we go ahead and deploy it . Next on maintenance of the software
+
+Waterfall and agile methodologies are good when working with small projects but they differ in some cases which is waterfall is not flexible i.e it cannot information cannot be gotten when implementation has started online agile. Agile make use of iterations from one scrum to another i.e new improvements
+An example of waterfall can be building an eatery website. while an example of agile is building a facebook app
+
+
+A software developer, write codes and builds a software, a quality assurance engineer, test the softwareand ensure that it meets the requirement and also it is not vulnerable to threats and a project manager is one who sees that the software is developed in its specific time frame
+
+
+
+IDE'S helps the software developer to write codes and ensures that it works . A version control helps to save the written code for future use
+
+most of the challenges faced are getting the right informations from the customer and delivering on times. These challenges can be solved by getting appropriate information on time and seetting a time fram for the project
+
+The unit testing is used to test individual lines of codes and modules to ensure it works well. The integration testign ensures that the codes being written works efficiently together, the system testing ensures that it is able to run on any computer and the acceptance testing ensures it meets the user's requirements. Testing helps to ensure that the software is efficient and functions well
+
+
+Part 2
+
+Prompt engineering is a crucial skill in leveraging AI models effectively. It enhances the precision, efficiency, and relevance of AI interactions, ensuring that users can achieve their desired outcomes with minimal effort and maximum control. As AI becomes increasingly integrated into various fields, mastering prompt engineering will be key to optimizing its use and avoiding potential pitfalls.
+
+Vague example: "Can you help me with 
+Improved example: "Can you help me debug a Django API that is returning a 500 error when making POST requests?"y project?"
+
+The improved prompt is more effective because it clearly defines the context (a Django API), the specific problem (a 500 error), and the condition under which the problem occurs (when making POST requests). This level of detail enables the person receiving the prompt to understand exactly what assistance is needed and respond more efficiently. The original prompt was too general, leaving the responder unsure about what kind of help was required or what the project even involved.
